@@ -15,11 +15,8 @@ técnica e se traduz em uma jornada lúdica e envolvente.
 
 ## Criadores
 
-<a href="https://www.github.com/DevBrun0">
-  <img src="https://github.com/MyFirstScript/MyFirstScript/assets/149266734/5f8a28c6-e363-402f-ad80-9b9bfeaa21c3" alt="Texto alternativo" style="border-radius: 50%; height:100px;border: 1px solid yellow">
-</a>
 <a href="https://github.com/RamalhoVr">
-  <img src="https://github.com/MyFirstScript/MyFirstScript/assets/149266734/35186857-1c5e-4149-a333-6309509b99a7" style="border-radius: 50%; height:100px;border: 1px solid red;">
+  <img src="https://github.com/MyFirstScript/MyFirstScript/assets/149266734/d42e944d-5312-47fc-9c28-c0561f476ce2" style="border-radius: 50%; height:100px;border: 1px solid red;">
 </a>
 
 <hr/>
