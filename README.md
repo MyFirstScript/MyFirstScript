@@ -15,9 +15,11 @@ técnica e se traduz em uma jornada lúdica e envolvente.
 
 ## Criadores
 
-<a href="https://github.com/RamalhoVr">
-  <img src="https://github.com/MyFirstScript/MyFirstScript/assets/149266734/d42e944d-5312-47fc-9c28-c0561f476ce2" style="border-radius: 50%; height:100px;border: 1px solid red;">
-</a>
+<a href="https//github.com/DevBrun0">@DevBrun0</a>
+<a href="https//github.com/RamalhoVr">@RamalhoVr</a>
+<a href="https//github.com/HenryPiozzi">@HenryPiozzi</a>
+<a href="https//github.com/yanmazzucatto">@yanmazzucatto</a>
+
 
 <hr/>
 <br/>
