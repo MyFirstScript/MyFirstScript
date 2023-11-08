@@ -15,10 +15,10 @@ técnica e se traduz em uma jornada lúdica e envolvente.
 
 ## Criadores
 
-<a href="https//github.com/DevBrun0">@DevBrun0</a>
-<a href="https//github.com/RamalhoVr">@RamalhoVr</a>
-<a href="https//github.com/HenryPiozzi">@HenryPiozzi</a>
-<a href="https//github.com/yanmazzucatto">@yanmazzucatto</a>
+<a href="https://github.com/DevBrun0">@DevBrun0</a>
+<a href="https://github.com/RamalhoVr">@RamalhoVr</a>
+<a href="https://github.com/HenryPiozzi">@HenryPiozzi</a>
+<a href="https://github.com/yanmazzucatto">@yanmazzucatto</a>
 
 
 <hr/>
